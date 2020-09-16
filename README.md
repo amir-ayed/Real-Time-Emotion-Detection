@@ -1,2 +1,2 @@
 # Real-Time-Emotion-Detection
-I downloaded and used the CK+ data set to train the CNN.
+I downloaded and used the CK+ dataset to train the CNN.
